@@ -1,7 +1,8 @@
+## About
 <img src="https://user-images.githubusercontent.com/56283137/200151286-26151e78-ea22-4310-b768-8d6947b40c34.png" alt="drawing" style="width:500px;"/> <br>
 #### The repository of the collaborative effort made by the second place winners at the SJU ACM x Headstarter Hackathon, on November 5th, 2022
 
-### Team
+## Team
 |    **Member**    |           **GitHub**          |                      **LinkedIn**                     |
 |:----------------:|:-----------------------------:|:-----------------------------------------------------:|
 | Antonios Takos | https://github.com/adonitakos |     https://www.linkedin.com/in/antonios-f-takos/     |
