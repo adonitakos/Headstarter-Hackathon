@@ -1,0 +1,7 @@
+* The minutes spent coding correlates to:
+    * The probability of getting an offer
+    * The number of videos watched
+* The number of questions completed, correlates to 
+    * The probability of getting an offer
+    * The number of videos watched
+    * The Higest Leaderboard Rank
