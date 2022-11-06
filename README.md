@@ -15,6 +15,4 @@ https://theheadstarter.com/
 
 ## Project
 The primary objective of the project was to use a provided example datset, analyze its content, point out trends, and come up with an overall marketing solution. <br>
-For further details regarding the project, please refer to following GitHub repo from SJU ACM, with the Instructions Google Doc: https://github.com/SJUACM/Headstarter-Hackathon
-
-## SJU ACM & Headstarter
+For further details regarding the project, please refer to following GitHub repo from SJU ACM, with the Instructions Google Doc: https://github.com/SJUACM/Headstarter-Hackathon.
