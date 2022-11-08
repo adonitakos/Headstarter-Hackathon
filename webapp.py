@@ -146,7 +146,7 @@ plt2.title("Scatter")
 
 xvalue2 = st.radio(
 "Please select a x column",
-( "Minutes_Spent_on_Headstarter", "Questions_Completed","	Minutes_Spent_Coding", "Email_Opens",	"Average_Teammate_Rating"))
+( "Minutes_Spent_on_Headstarter", "Questions_Completed", "Email_Opens",	"Average_Teammate_Rating"))
 
 yvalue2 = st.radio(
 "Please select a y column",
