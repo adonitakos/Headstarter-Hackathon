@@ -1,4 +1,4 @@
-sudo apt-get install python-matplotlib
+python -m pip install -U matplotlib
 
 import streamlit as st
 import pandas as pd
