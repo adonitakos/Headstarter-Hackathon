@@ -16,7 +16,7 @@ https://theheadstarter.com/
 ## Project
 The primary objective of the project was to use a provided example datset, analyze its content, point out trends, and come up with an overall marketing solution. <br> <br>
 You can check at our web application hosted via Streamlit Community Cloud: <br>
-https://adonitakos-headstarter-hackathon-webapp-ov8now.streamlit.app/ <br> <br>
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://adonitakos-headstarter-hackathon-webapp-ov8now.streamlit.app/) <br> <br>
 For further details regarding the project, please refer to following GitHub repo from SJU ACM, with the Instructions Google Doc: https://github.com/SJUACM/Headstarter-Hackathon.
 
 
